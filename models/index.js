@@ -1,4 +1,4 @@
-import user from './user';
-import thought from './thought';
+const user = require( './user');
+const thought = require('./thought');
 
-export default { user, thought };
+module.exports = { user, thought };
