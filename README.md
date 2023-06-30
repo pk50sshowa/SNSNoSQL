@@ -10,7 +10,7 @@ This application is an API used for a social network where users can use basic s
 ![Screenshot](screenshots/screenshot.jpg)
 
 ## VIDEO WALKTHROUGH
-
+https://drive.google.com/file/d/1IxSu5elLlqD3cnvHtrF7Q4z09hEuvrgT/view
 
 ## [INSTALLATION](#installation)
 Run the terminal command "npm i" in the root directory, then use npm to install express.js and mongodb.
